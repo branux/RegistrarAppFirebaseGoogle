@@ -2,7 +2,7 @@ Configuração de login do Maui Firebase Google
 Artigo/Blog
 Configurei com sucesso o Google Sign-In usando o Firebase para meu aplicativo .NET MAUI. Abaixo, um guia passo a passo que você pode seguir para replicar a configuração.
 
-https://gist.github.com/herczegzoltan/0873b5b4f0e9811570a39e1a20a01f0b
+https://github.com/branux/RegistrarAppFirebaseGoogle.git
 
 🔧 1. Crie um projeto do Firebase Vá para o Firebase Console e crie um novo projeto.
 
